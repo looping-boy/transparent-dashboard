@@ -1,0 +1,33 @@
+C:\Users\HP\Desktop\WFWindows\BlurForm\bin\Debug\BlurForm.exe.config
+C:\Users\HP\Desktop\WFWindows\BlurForm\bin\Debug\BlurForm.exe
+C:\Users\HP\Desktop\WFWindows\BlurForm\bin\Debug\BlurForm.pdb
+C:\Users\HP\Desktop\WFWindows\BlurForm\obj\Debug\BlurForm.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\WFWindows\BlurForm\obj\Debug\BlurForm.Properties.Resources.resources
+C:\Users\HP\Desktop\WFWindows\BlurForm\obj\Debug\BlurForm.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\WFWindows\BlurForm\obj\Debug\BlurForm.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\WFWindows\BlurForm\obj\Debug\BlurForm.exe
+C:\Users\HP\Desktop\WFWindows\BlurForm\obj\Debug\BlurForm.pdb
+C:\Users\HP\Desktop\WFWindows\BlurForm\obj\Debug\BlurForm.Form1.resources
+C:\Users\HP\Desktop\WFWindows\BlurForm\bin\Debug\Guna.UI2.dll
+C:\Users\HP\Desktop\WFWindows\BlurForm\obj\Debug\BlurForm.csproj.CopyComplete
+C:\Users\HP\Desktop\Desktop\DS3\WFWindows\BlurForm\bin\Debug\BlurForm.exe.config
+C:\Users\HP\Desktop\Desktop\DS3\WFWindows\BlurForm\bin\Debug\BlurForm.exe
+C:\Users\HP\Desktop\Desktop\DS3\WFWindows\BlurForm\bin\Debug\BlurForm.pdb
+C:\Users\HP\Desktop\Desktop\DS3\WFWindows\BlurForm\obj\Debug\BlurForm.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Desktop\DS3\WFWindows\BlurForm\obj\Debug\BlurForm.Form1.resources
+C:\Users\HP\Desktop\Desktop\DS3\WFWindows\BlurForm\obj\Debug\BlurForm.Properties.Resources.resources
+C:\Users\HP\Desktop\Desktop\DS3\WFWindows\BlurForm\obj\Debug\BlurForm.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Desktop\DS3\WFWindows\BlurForm\obj\Debug\BlurForm.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Desktop\DS3\WFWindows\BlurForm\obj\Debug\BlurForm.csproj.CopyComplete
+C:\Users\HP\Desktop\Desktop\DS3\WFWindows\BlurForm\obj\Debug\BlurForm.exe
+C:\Users\HP\Desktop\Desktop\DS3\WFWindows\BlurForm\obj\Debug\BlurForm.pdb
+C:\Users\guill\Downloads\Blur Form\WFWindows\BlurForm\bin\Debug\BlurForm.exe.config
+C:\Users\guill\Downloads\Blur Form\WFWindows\BlurForm\bin\Debug\BlurForm.exe
+C:\Users\guill\Downloads\Blur Form\WFWindows\BlurForm\bin\Debug\BlurForm.pdb
+C:\Users\guill\Downloads\Blur Form\WFWindows\BlurForm\obj\Debug\BlurForm.csproj.AssemblyReference.cache
+C:\Users\guill\Downloads\Blur Form\WFWindows\BlurForm\obj\Debug\BlurForm.Form1.resources
+C:\Users\guill\Downloads\Blur Form\WFWindows\BlurForm\obj\Debug\BlurForm.Properties.Resources.resources
+C:\Users\guill\Downloads\Blur Form\WFWindows\BlurForm\obj\Debug\BlurForm.csproj.GenerateResource.cache
+C:\Users\guill\Downloads\Blur Form\WFWindows\BlurForm\obj\Debug\BlurForm.csproj.CoreCompileInputs.cache
+C:\Users\guill\Downloads\Blur Form\WFWindows\BlurForm\obj\Debug\BlurForm.exe
+C:\Users\guill\Downloads\Blur Form\WFWindows\BlurForm\obj\Debug\BlurForm.pdb
